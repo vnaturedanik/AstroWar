@@ -8,5 +8,6 @@
 # Испозьзование 
 Шаг1:
 pip install -r requirements.txt
+
 Шаг2:
 run "python main.py"
